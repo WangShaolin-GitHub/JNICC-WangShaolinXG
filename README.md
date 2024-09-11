@@ -1,10 +1,17 @@
+![](media/000c259394997a4a2be1e2b11465b55d.png)
 
-WangShaolinXG
+**WangShaolinXG**
 
-XjarGo
+***
 
+**XjarGo**
 
-特点：
+![](media/4c59838c9f143479b57b507ef750274d.png)
+
+**  
+**
+
+**特点：**
 
 1.加解密代码采用JNI方式，隐藏所有实现细节，防止被内存解密，从而保证更安全；
 
@@ -18,35 +25,37 @@ XjarGo
 
 6.可按需配置运行参数-XX:+DisableAttachMechanism等参数，防止Attach内存代码；
 
-界面：
+**界面：**
 
+![](media/30cbf76766ca06be24d5a0b3b2741970.png)
 
+**演示：**
 
-演示：
+![](media/5f862a5addebf943b7062b14c90009b5.png)
 
+**运行：**
 
+![](media/20922d5a22adf1cb288950917646e9a9.png)
 
-运行：
+**清除：**
 
+![](media/96722e10503520e8226a1945b029bef7.png)
 
+**平台：**
 
-清除：
+![](media/589f91f31af894effb2cefcce4f036ed.png)
 
+**业务：**
 
+![](media/01bd904f6b640b43ba7b6557c7305c22.png)
 
-平台：
+**配置：**
 
+![](media/454889aaa2813f982ff3a2ac9eb98134.png)
 
+**加群：**
 
-业务：
+![](media/d9c15fe768d62717bda0b3049e66cf75.png)
 
-
-
-配置：
-
-
-
-加群：
-
-QQ：767688909
+QQ：767688909  
 QQ Group 01：693795906
